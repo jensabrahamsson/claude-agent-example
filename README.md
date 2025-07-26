@@ -149,6 +149,10 @@ OK, let the play begin, activate the agents
 
 **Important:** Without this activation phrase, Claude will work normally but won't engage in the full team roleplay simulation with individual personalities, team dynamics, and collaborative problem-solving that this project is designed for.
 
+### 5. Example Project Backlog
+
+The repository includes `example_PRODUCT_BACKLOG.md` - a realistic product backlog created by the agents themselves, demonstrating how the team would break down features, estimate effort, and prioritize work in a real development scenario.
+
 ## 🎭 Roleplay Guidelines
 
 This project emphasizes **realistic team simulation**:
